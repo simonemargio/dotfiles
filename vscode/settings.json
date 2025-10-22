@@ -1,0 +1,440 @@
+{
+  "cmake.configureOnOpen": true,
+  "git.autofetch": true,
+  "workbench.startupEditor": "newUntitledFile",
+  "window.autoDetectColorScheme": true,
+  "workbench.preferredLightColorTheme": "Ayu Light",
+  "workbench.preferredDarkColorTheme": "Ayu Dark",
+  "workbench.colorTheme": "Ayu Light",
+  "git.confirmSync": false,
+  "gitHistory.sideBySide": true,
+  "git.openAfterClone": "always",
+  "git.mergeEditor": true,
+  "editor.fontSize": 14,
+  "terminal.external.osxExec": "iTerm.app",
+  "terminal.integrated.defaultProfile.osx": "zsh",
+  "terminal.integrated.fontFamily": "MesloLGS NF",
+  "scm.diffDecorationsGutterVisibility": "hover",
+  "editor.scrollbar.horizontal": "hidden",
+  "editor.scrollbar.vertical": "hidden",
+  "workbench.sideBar.location": "right",
+  "editor.wordWrap": "on",
+  "editor.scrollBeyondLastLine": false,
+  "telemetry.telemetryLevel": "off",
+  "[git-commit]": {
+    "editor.acceptSuggestionOnCommitCharacter": true
+  },
+  "explorer.confirmDelete": false,
+  "git.ignoreRebaseWarning": true,
+  "gitblame.inlineMessageFormat": "- ${time.ago}",
+  "gitblame.ignoreWhitespace": true,
+  "gitblame.statusBarMessageClickAction": "Open tool URL",
+  "gitblame.statusBarMessageFormat": "${author.name} (${time.ago})",
+  "diffEditor.ignoreTrimWhitespace": false,
+  "task.slowProviderWarning": true,
+  "githubPullRequests.fileListLayout": "tree",
+  "terminal.integrated.persistentSessionReviveProcess": "never",
+  "terminal.integrated.enablePersistentSessions": false,
+  "better-comments.highlightPlainText": true,
+  "better-comments.tags": [
+    {
+      "tag": "!",
+      "color": "#FF2D00",
+      "strikethrough": false,
+      "underline": false,
+      "backgroundColor": "transparent",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "tag": "?",
+      "color": "#3498DB",
+      "strikethrough": false,
+      "underline": false,
+      "backgroundColor": "transparent",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "tag": "//",
+      "color": "#474747",
+      "strikethrough": true,
+      "underline": false,
+      "backgroundColor": "transparent",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "tag": "todo",
+      "color": "#FF8C00",
+      "strikethrough": false,
+      "underline": false,
+      "backgroundColor": "transparent",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "tag": "*",
+      "color": "#98C379",
+      "strikethrough": false,
+      "underline": false,
+      "backgroundColor": "transparent",
+      "bold": false,
+      "italic": false
+    }
+  ],
+  "workbench.colorCustomizations": {},
+  "gitmoji.showEmojiCode": true,
+  "liveServer.settings.donotShowInfoMsg": true,
+  "liveServer.settings.donotVerifyTags": true,
+  "githubPullRequests.createOnPublishBranch": "never",
+  "workbench.iconTheme": "material-icon-theme",
+  "colorize.colorized_variables": ["CSS"],
+  "colorize.decoration_type": "underline",
+  "prettier.useEditorConfig": false,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "gitblame.inlineMessageMargin": 1,
+  "gitblame.inlineMessageNoCommit": "",
+  "gitblame.statusBarMessageNoCommit": "",
+  "cSpell.userWords": ["Bitwarden", "Codeberg", "Gitea", "Simonemargio"],
+  "cSpell.ignoreWords": ["canonify"],
+  "editor.minimap.autohide": "mouseover",
+  "workbench.tips.enabled": false,
+  "window.newWindowDimensions": "inherit",
+  "itunes.skipTrackByTrackDislike": false,
+  "githubNotificationsBell.oauthToken": "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",
+  "cSpell.dictionaryDefinitions": [],
+  "cSpell.caseSensitive": true,
+  "cSpell.language": "it",
+  "cSpell.diagnosticLevel": "Hint",
+  "cSpell.languageSettings": [],
+  "githubIssues.queries": [
+    {
+      "label": "My Issues",
+      "query": "default"
+    },
+    {
+      "label": "Created Issues",
+      "query": "author:${user} state:open repo:${owner}/${repository} sort:created-desc"
+    },
+    {
+      "label": "Recent Issues",
+      "query": "state:open repo:${owner}/${repository} sort:updated-desc"
+    }
+  ],
+  "resmon.disk.format": "UsedOutOfTotal",
+  "resmon.show.cpuusage": false,
+  "resmon.show.mem": false,
+  "lifeline.clock.format": "h:mm",
+  "resourceWatchdog.battery.show": true,
+  "resourceWatchdog.leftAlignment": false,
+  "resourceWatchdog.memory.show": false,
+  "resourceWatchdog.cpuFrequency.show": false,
+  "resourceWatchdog.cpuUsage.show": false,
+  "resourceWatchdog.disk.format": "PercentUsed",
+  "resourceWatchdog.updateFrequencyMs": 600000,
+  "powermode.combo.counterEnabled": "hide",
+  "powermode.combo.timerEnabled": "hide",
+  "powermode.enabled": true,
+  "powermode.combo.counterSize": 0,
+  "powermode.combo.timeout": 0,
+  "powermode.shake.intensity": 0,
+  "githubPullRequests.pullBranch": "never",
+  "json.schemas": [],
+  "github.copilot.enable": {
+    "*": true,
+    "plaintext": false,
+    "markdown": true,
+    "scminput": false
+  },
+  "window.commandCenter": false,
+  "workbench.layoutControl.enabled": false,
+  "workbench.editor.enablePreview": false,
+  "editor.renderWhitespace": "all",
+  "editor.accessibilitySupport": "off",
+  "workbench.editor.empty.hint": "hidden",
+  "vscode-pets.petSize": "small",
+  "hediet.vscode-drawio.resizeImages": null,
+  "gitblame.inlineMessageEnabled": true,
+  "editor.fontFamily": "'JetBrains Mono'",
+  "workbench.settings.applyToAllProfiles": ["editor.fontFamily"],
+  "terminal.integrated.enableMultiLinePasteWarning": false,
+  "security.workspace.trust.untrustedFiles": "open",
+  "github.copilot.editor.enableAutoCompletions": true,
+  "vscode-pets.throwBallWithMouse": true,
+  "vscode-pets.petType": "dog",
+  "cSpell.enableFiletypes": ["tex"],
+  "editor.linkedEditing": true,
+  "editor.minimap.enabled": false,
+  "editor.rulers": [
+    {
+      "column": 80,
+      "color": "#00FF0010"
+    },
+    {
+      "column": 100,
+      "color": "#BDB76B15"
+    },
+    {
+      "column": 120,
+      "color": "#FA807219"
+    }
+  ],
+  "editor.unicodeHighlight.includeComments": true,
+  "workbench.editor.revealIfOpen": true,
+  "workbench.tree.indent": 20,
+  "emmet.variables": {
+    "lang": "en"
+  },
+  "trailing-spaces.backgroundColor": "rgba(255,0,0,0.1)",
+  "trailing-spaces.includeEmptyLines": false,
+  "terminal.integrated.tabs.hideCondition": "never",
+  "java.compile.nullAnalysis.mode": "automatic",
+  "java.configuration.detectJdksAtStart": false,
+  "java.configuration.updateBuildConfiguration": "automatic",
+  "java.debug.settings.hotCodeReplace": "auto",
+  "java.dependency.packagePresentation": "hierarchical",
+  "java.maxConcurrentBuilds": 8,
+  "java.sources.organizeImports.staticStarThreshold": 1,
+  "terminal.integrated.profiles.linux": {
+    "bash": {
+      "path": "bash",
+      "env": {
+        "JAVA_HOME": "/home/simonemargio/.vscode-server/data/User/globalStorage/pleiades.java-extension-pack-jdk/java/latest"
+      },
+      "args": [
+        "--rcfile",
+        "/home/simonemargio/.vscode-server/data/User/globalStorage/pleiades.java-extension-pack-jdk/.bashrc"
+      ]
+    },
+    "JavaSE-1.8 LTS": {
+      "overrideName": true,
+      "env": {
+        "JAVA_HOME": "/home/simonemargio/.vscode-server/data/User/globalStorage/pleiades.java-extension-pack-jdk/java/8"
+      },
+      "path": "bash",
+      "args": [
+        "--rcfile",
+        "/home/simonemargio/.vscode-server/data/User/globalStorage/pleiades.java-extension-pack-jdk/.bashrc"
+      ]
+    },
+    "JavaSE-11 LTS": {
+      "overrideName": true,
+      "env": {
+        "JAVA_HOME": "/home/simonemargio/.vscode-server/data/User/globalStorage/pleiades.java-extension-pack-jdk/java/11"
+      },
+      "path": "bash",
+      "args": [
+        "--rcfile",
+        "/home/simonemargio/.vscode-server/data/User/globalStorage/pleiades.java-extension-pack-jdk/.bashrc"
+      ]
+    },
+    "JavaSE-17 LTS": {
+      "overrideName": true,
+      "env": {
+        "JAVA_HOME": "/home/simonemargio/.vscode-server/data/User/globalStorage/pleiades.java-extension-pack-jdk/java/17"
+      },
+      "path": "bash",
+      "args": [
+        "--rcfile",
+        "/home/simonemargio/.vscode-server/data/User/globalStorage/pleiades.java-extension-pack-jdk/.bashrc"
+      ]
+    },
+    "JavaSE-21 LTS": {
+      "overrideName": true,
+      "env": {
+        "JAVA_HOME": "/home/simonemargio/.vscode-server/data/User/globalStorage/pleiades.java-extension-pack-jdk/java/21"
+      },
+      "path": "bash",
+      "args": [
+        "--rcfile",
+        "/home/simonemargio/.vscode-server/data/User/globalStorage/pleiades.java-extension-pack-jdk/.bashrc"
+      ]
+    },
+    "JavaSE-23": {
+      "overrideName": true,
+      "env": {
+        "JAVA_HOME": "/home/simonemargio/.vscode-server/data/User/globalStorage/pleiades.java-extension-pack-jdk/java/latest"
+      },
+      "path": "bash",
+      "args": [
+        "--rcfile",
+        "/home/simonemargio/.vscode-server/data/User/globalStorage/pleiades.java-extension-pack-jdk/.bashrc"
+      ]
+    }
+  },
+  "terminal.integrated.defaultProfile.linux": "JavaSE-23",
+  "maven.terminal.customEnv": [
+    {
+      "environmentVariable": "JAVA_HOME",
+      "value": "/Users/simonemargio/Library/Application Support/Code/User/globalStorage/pleiades.java-extension-pack-jdk/java/21"
+    },
+    {
+      "environmentVariable": "ZDOTDIR",
+      "value": "/Users/simonemargio/Library/Application Support/Code/User/globalStorage/pleiades.java-extension-pack-jdk"
+    }
+  ],
+  "terminal.integrated.profiles.osx": {
+    "zsh": {
+      "path": "zsh",
+      "env": {
+        "JAVA_HOME": "/Users/simonemargio/Library/Application Support/Code/User/globalStorage/pleiades.java-extension-pack-jdk/java/21",
+        "ZDOTDIR": "/Users/simonemargio/Library/Application Support/Code/User/globalStorage/pleiades.java-extension-pack-jdk"
+      }
+    },
+    "JavaSE-1.8 LTS": {
+      "overrideName": true,
+      "env": {
+        "ZDOTDIR": "/Users/simonemargio/Library/Application Support/Code/User/globalStorage/pleiades.java-extension-pack-jdk",
+        "JAVA_HOME": "/Users/simonemargio/Library/Application Support/Code/User/globalStorage/pleiades.java-extension-pack-jdk/java/8"
+      },
+      "path": "zsh"
+    },
+    "JavaSE-11 LTS": {
+      "overrideName": true,
+      "env": {
+        "ZDOTDIR": "/Users/simonemargio/Library/Application Support/Code/User/globalStorage/pleiades.java-extension-pack-jdk",
+        "JAVA_HOME": "/Users/simonemargio/Library/Application Support/Code/User/globalStorage/pleiades.java-extension-pack-jdk/java/11"
+      },
+      "path": "zsh"
+    },
+    "JavaSE-17 LTS": {
+      "overrideName": true,
+      "env": {
+        "ZDOTDIR": "/Users/simonemargio/Library/Application Support/Code/User/globalStorage/pleiades.java-extension-pack-jdk",
+        "JAVA_HOME": "/Users/simonemargio/Library/Java/JavaVirtualMachines/ms-17.0.16/Contents/Home"
+      },
+      "path": "zsh"
+    },
+    "JavaSE-21 LTS": {
+      "overrideName": true,
+      "env": {
+        "ZDOTDIR": "/Users/simonemargio/Library/Application Support/Code/User/globalStorage/pleiades.java-extension-pack-jdk",
+        "JAVA_HOME": "/Users/simonemargio/Library/Application Support/Code/User/globalStorage/pleiades.java-extension-pack-jdk/java/21"
+      },
+      "path": "zsh"
+    },
+    "JavaSE-24": {
+      "overrideName": true,
+      "env": {
+        "ZDOTDIR": "/Users/simonemargio/Library/Application Support/Code/User/globalStorage/pleiades.java-extension-pack-jdk",
+        "JAVA_HOME": "/Users/simonemargio/Library/Application Support/Code/User/globalStorage/pleiades.java-extension-pack-jdk/java/latest"
+      },
+      "path": "zsh"
+    }
+  },
+  "[latex]": {
+    "editor.defaultFormatter": "mathematic.vscode-latex"
+  },
+  "files.eol": "\n",
+  "[bat]": {
+    "files.eol": "\r\n"
+  },
+  "terminal.integrated.profiles.windows": {
+    "JavaSE-1.8 LTS": {
+      "overrideName": true,
+      "env": {
+        "PATH": "C:\\Users\\simone.margio\\.jdks\\jdk1.8.0_301\\bin;${env:PATH}",
+        "JAVA_HOME": "C:\\Users\\simone.margio\\.jdks\\jdk1.8.0_301"
+      },
+      "path": "cmd"
+    },
+    "JavaSE-11 LTS": {
+      "overrideName": true,
+      "env": {
+        "PATH": "C:\\Users\\simone.margio\\AppData\\Roaming\\Code\\User\\globalStorage\\pleiades.java-extension-pack-jdk\\java\\11\\bin;${env:PATH}",
+        "JAVA_HOME": "C:\\Users\\simone.margio\\AppData\\Roaming\\Code\\User\\globalStorage\\pleiades.java-extension-pack-jdk\\java\\11"
+      },
+      "path": "cmd"
+    },
+    "JavaSE-17 LTS": {
+      "overrideName": true,
+      "env": {
+        "PATH": "C:\\Users\\simone.margio\\AppData\\Roaming\\Code\\User\\globalStorage\\pleiades.java-extension-pack-jdk\\java\\17\\bin;${env:PATH}",
+        "JAVA_HOME": "C:\\Users\\simone.margio\\AppData\\Roaming\\Code\\User\\globalStorage\\pleiades.java-extension-pack-jdk\\java\\17"
+      },
+      "path": "cmd"
+    },
+    "JavaSE-21 LTS": {
+      "overrideName": true,
+      "env": {
+        "PATH": "C:\\Users\\simone.margio\\.jdks\\corretto-21.0.4\\bin;${env:PATH}",
+        "JAVA_TOOL_OPTIONS": "-Dstdout.encoding=UTF-8 -Dstderr.encoding=UTF-8",
+        "JAVA_HOME": "C:\\Users\\simone.margio\\.jdks\\corretto-21.0.4"
+      },
+      "path": "cmd",
+      "args": [
+        "/k",
+        "chcp",
+        "65001"
+      ]
+    },
+    "JavaSE-22": {
+      "overrideName": true,
+      "env": {
+        "PATH": "C:\\Users\\simone.margio\\.jdks\\openjdk-22.0.2\\bin;${env:PATH}",
+        "JAVA_TOOL_OPTIONS": "-Dstdout.encoding=UTF-8 -Dstderr.encoding=UTF-8",
+        "JAVA_HOME": "C:\\Users\\simone.margio\\.jdks\\openjdk-22.0.2"
+      },
+      "path": "cmd",
+      "args": [
+        "/k",
+        "chcp",
+        "65001"
+      ]
+    },
+    "JavaSE-24": {
+      "overrideName": true,
+      "env": {
+        "PATH": "C:\\Users\\simone.margio\\AppData\\Roaming\\Code\\User\\globalStorage\\pleiades.java-extension-pack-jdk\\java\\latest\\bin;${env:PATH}",
+        "JAVA_TOOL_OPTIONS": "-Dstdout.encoding=UTF-8 -Dstderr.encoding=UTF-8",
+        "JAVA_HOME": "C:\\Users\\simone.margio\\AppData\\Roaming\\Code\\User\\globalStorage\\pleiades.java-extension-pack-jdk\\java\\latest"
+      },
+      "path": "cmd",
+      "args": [
+        "/k",
+        "chcp",
+        "65001"
+      ]
+    }
+  },
+  "terminal.integrated.automationProfile.windows": {
+    "path": "cmd"
+  },
+  "terminal.integrated.defaultProfile.windows": "JavaSE-21 LTS",
+  "java.test.config": {
+    "vmArgs": [
+      "-Dstdout.encoding=UTF-8",
+      "-Dstderr.encoding=UTF-8"
+    ]
+  },
+  "terminal.integrated.env.windows": {
+    "JAVA_HOME": "C:\\Users\\simone.margio\\.jdks\\corretto-21.0.4",
+    "PATH": "C:\\Users\\simone.margio\\.jdks\\corretto-21.0.4\\bin;${env:PATH}"
+  },
+  "security.allowedUNCHosts": [
+    "wsl.localhost"
+  ],
+  "github.copilot.nextEditSuggestions.enabled": true,
+  "java.configuration.runtimes": [
+    {
+      "name": "JavaSE-1.8",
+      "path": "/Users/simonemargio/Library/Application Support/Code/User/globalStorage/pleiades.java-extension-pack-jdk/java/8"
+    },
+    {
+      "name": "JavaSE-11",
+      "path": "/Users/simonemargio/Library/Application Support/Code/User/globalStorage/pleiades.java-extension-pack-jdk/java/11"
+    },
+    {
+      "name": "JavaSE-17",
+      "path": "/Users/simonemargio/Library/Java/JavaVirtualMachines/ms-17.0.16/Contents/Home"
+    },
+    {
+      "name": "JavaSE-24",
+      "path": "/Users/simonemargio/Library/Application Support/Code/User/globalStorage/pleiades.java-extension-pack-jdk/java/latest",
+      "default": true
+    }
+  ],
+  "maven.executable.path": "/Users/simonemargio/Library/Application Support/Code/User/globalStorage/pleiades.java-extension-pack-jdk/maven/latest/bin/mvn"
+}
