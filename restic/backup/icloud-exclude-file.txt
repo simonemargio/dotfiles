@@ -1,0 +1,3 @@
+# Exclude file
+*.DS_Store
+*.localized

@@ -1,0 +1,68 @@
+# Exclude file
+*.DS_Store
+*.localized
+Library/Application Support/com.apple.LaunchServicesTemplateApp.dv
+Library/Safari/WebpageIcons.db
+Library/Safari/HistoryIndex.sk
+Library/Safari/Icons.db
+
+# Exclude folder
+.cache
+*Cache
+*cache
+*Chaces
+*chaces
+*CacheStorage
+*Steam
+*FileProvider
+*.cocoapods
+*.rustup
+.rustup
+*_cacache
+*.vscode
+*Firefox
+*discord
+*BetterDiscord Installer
+*Spotify
+*Slack
+*.DocumentRevisions-V100
+*.MobileBackups
+*.MobileBackups.trash
+*.Spotlight-V100
+*.TemporaryItems
+*.Trash
+*.Trashes
+Public
+NoBackup
+Logs
+Library/Group Containers
+Library/Messages
+Library/Python
+Library/Containers
+Library/Mail
+Library/Weather
+Library/Application Support/Google
+Library/Application Support/MobileSync/Backup
+Library/Biome
+Library/Caches
+Library/Containers/com.apple.mail/Data/Library/Mail Downloads
+Library/Containers/com.apple.mail/Data/DataVaults
+Library/Developer
+Library/Google/GoogleSoftwareUpdate
+Library/Metadata/CoreSpotlight
+Library/Mirrors
+Library/PubSub/Database
+Library/PubSub/Downloads
+Library/PubSub/Feeds
+Library/Safari/Favicon Cache
+Library/Safari/Touch Icons Cache
+Library/VoiceTrigger/SAT
+MailData/AvailableFeeds
+MailData/BackingStoreUpdateJournal
+MailData/Envelope Index
+MailData/Envelope Index-journal
+MailData/Envelope Index-shm
+MailData/Envelope Index-wal
+.local/share/nvim
+.local/state
+.viminfo
